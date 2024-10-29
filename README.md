@@ -14,6 +14,7 @@ Im a student trying to get better everyday in the IT field, you can contact me o
     * Linux basics ( Mint, Kali, Arch)
     * C++ 
     * Basic knowledge of Operation Security
+    * Social Engieneering
  
 * Interests
   * Network Infrastructure
