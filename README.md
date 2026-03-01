@@ -7,12 +7,13 @@ Im a student trying to get better everyday in the IT field, you can contact me o
 ## Current Work Status
   * Currently programming with Java 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/2bd236f0-ec01-4eb4-a8df-990d2d8b0666" width="33" />
+  <img src="https://github.com/user-attachments/assets/2bd236f0-ec01-4eb4-a8df-990d2d8b0666" width="18" />
 </p>
 
 * My skillset
-    * Linux basics ( Mint, Kali, Arch)
+    * Linux basics (Mint, Ubuntu, Kali, Arch)
     * C++ 
+    * mySql
     * Basic knowledge of Operation Security
     * Social Engieneering
  
@@ -21,6 +22,7 @@ Im a student trying to get better everyday in the IT field, you can contact me o
   * CyberSecurity
   * Operating Systems
   * CTFs
+  * Cloud Engineering
  
 
 <p align="center">
